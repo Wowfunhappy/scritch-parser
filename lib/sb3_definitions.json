@@ -48,7 +48,7 @@
                 },
                 "dataFormat": {
                     "type": "string",
-                    "enum": ["png", "svg", "jpeg", "jpg", "bmp", "gif"]
+                    "enum": ["png", "svg", "jpeg", "jpg", "bmp", "gif", "webp"]
                 },
                 "md5ext": {
                     "type": "string",
